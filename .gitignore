@@ -1,0 +1,15 @@
+# temporary files dependencies
+node_modules
+
+# environment variables
+.env
+
+# output dir
+./dist/
+./dist/routers
+./dist/index.js
+./dist/index.js.map
+
+# output datasets
+src/assets/datasets
+src/assets
